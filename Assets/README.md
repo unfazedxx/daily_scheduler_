@@ -4,7 +4,7 @@
 
 - Use: To use, click into the desired hour you would like you update, add in your comments, to do list, or what information is needed, and hit the save icon. 
 
-- Configuration: please access the site using this URL: 
+- Configuration: please access the site using this URL: https://unfazedxx.github.io/daily_scheduler_/
 
 - Troubleshooting: * unable to get the colors for the past present and future to line up correctly. also, when refreshing the page, the local storage is reset and the items do not appear on the reloaded page. 
 
